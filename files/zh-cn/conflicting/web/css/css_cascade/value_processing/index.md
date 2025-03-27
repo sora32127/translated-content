@@ -1,6 +1,7 @@
 ---
 title: 指定值
-slug: Web/CSS/CSS_cascade/specified_value
+slug: conflicting/Web/CSS/CSS_cascade/Value_processing
+original_slug: Web/CSS/CSS_cascade/specified_value
 ---
 
 {{CSSRef}}
